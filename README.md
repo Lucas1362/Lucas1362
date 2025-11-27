@@ -75,7 +75,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI e de Eng
 <img 
     align="left" 
     alt="Amazonwebservice"
-    title="AmazonWebSwervice" 
+    title="AmazonWebService" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"     
